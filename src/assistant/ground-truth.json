@@ -1,0 +1,22 @@
+[
+  { "qid": "Q01", "category": "Returns", "question": "What is your returns policy?", "answer": "You can return unopened items within 14 days of delivery for a full refund. Return shipping costs may apply. [Q01]" },
+  { "qid": "Q02", "category": "Returns", "question": "How do I start a return?", "answer": "Start a return from your Orders page or contact support with your order ID and reason. [Q02]" },
+  { "qid": "Q03", "category": "Shipping", "question": "How long does shipping take?", "answer": "Standard shipping typically takes 3-7 business days depending on the destination. [Q03]" },
+  { "qid": "Q04", "category": "Shipping", "question": "Do you ship internationally?", "answer": "Yes — we ship to most countries. Shipping costs & times vary by destination. [Q04]" },
+  { "qid": "Q05", "category": "Payment", "question": "What payment methods do you accept?", "answer": "We accept major credit/debit cards and platform payments where available. [Q05]" },
+  { "qid": "Q06", "category": "Warranty", "question": "Do products have warranty?", "answer": "Many products include a 12-month manufacturer warranty. Check the product description for details. [Q06]" },
+  { "qid": "Q07", "category": "Order", "question": "Can I cancel my order?", "answer": "Orders can be cancelled within 30 minutes of placement if they haven't been processed. Contact support with your order ID. [Q07]" },
+  { "qid": "Q08", "category": "Account", "question": "How do I reset my password?", "answer": "Use the 'Forgot password' link on the sign-in page to reset your password via email. [Q08]" },
+  { "qid": "Q09", "category": "Product", "question": "Are product specifications accurate?", "answer": "Yes — specs shown are provided by the manufacturer. Contact support if you notice a discrepancy. [Q09]" },
+  { "qid": "Q10", "category": "Promotions", "question": "How do I apply a discount code?", "answer": "Enter the promo code at checkout in the 'Apply discount' field before payment. [Q10]" },
+  { "qid": "Q11", "category": "Returns", "question": "What if my item is damaged?", "answer": "If an item arrives damaged, contact support and provide photos and your order ID within 7 days for a replacement or refund. [Q11]" },
+  { "qid": "Q12", "category": "Shipping", "question": "Can I change my shipping address?", "answer": "You can update the shipping address within 30 minutes of placing the order. Contact support with your order ID. [Q12]" },
+  { "qid": "Q13", "category": "Order", "question": "What does order status 'Packed' mean?", "answer": "'Packed' means items have been prepared for shipment and will be handed to the carrier soon. [Q13]" },
+  { "qid": "Q14", "category": "Order", "question": "What does order status 'Shipped' mean?", "answer": "'Shipped' means your package is with the carrier. Track it using the carrier tracking number once provided. [Q14]" },
+  { "qid": "Q15", "category": "Order", "question": "How can I track my order?", "answer": "We provide carrier and tracking details on the Order Status page for shipped orders. Use your order ID to look up the status. [Q15]" },
+  { "qid": "Q16", "category": "Returns", "question": "Do I get a refund for shipping costs?", "answer": "Refund of shipping costs depends on the reason for return. Contact support with order details. [Q16]" },
+  { "qid": "Q17", "category": "Product", "question": "Do you have product manuals?", "answer": "Manuals are usually included in the product listing under 'Downloads' or inside the product package. [Q17]" },
+  { "qid": "Q18", "category": "Warranty", "question": "How do I claim warranty?", "answer": "To claim warranty, contact support with proof of purchase and a description of the issue. [Q18]" },
+  { "qid": "Q19", "category": "Payment", "question": "Is my payment information secure?", "answer": "Yes — we use industry-standard TLS encryption and do not store full card details on our servers. [Q19]" },
+  { "qid": "Q20", "category": "Policies", "question": "How do you handle privacy?", "answer": "We protect user data per our privacy policy; we only use personal data to fulfill orders and improve service. [Q20]"}
+]

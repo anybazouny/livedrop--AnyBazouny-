@@ -1,0 +1,162 @@
+[
+  {
+    "id": "1",
+    "title": "Red Shirt",
+    "price": 29.99,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.GU1ZFy7t-KIVWCWAc-NrBgHaE7?pid=Api&P=0&h=220?text=Red+Shirt",
+    "tags": ["clothing","shirt","red"],
+    "stockQty": 10
+  },
+  {
+    "id": "2",
+    "title": "Blue Jeans",
+    "price": 49.99,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.JAe7QxYL4amQfJLjOLTQtQHaLj?pid=Api&P=0&h=220?text=Blue+Jeans",
+    "tags": ["clothing","jeans","blue"],
+    "stockQty": 5
+  },
+  {
+    "id": "3",
+    "title": "Green Hoodie",
+    "price": 39.99,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.MkV0-r8q5iR5isSFPyYhNgHaHa?pid=Api&P=0&h=220?text=Green+Hoodie",
+    "tags": ["clothing","hoodie","green"],
+    "stockQty": 8
+  },
+  {
+    "id": "4",
+    "title": "Black Sneakers",
+    "price": 59.99,
+    "image": "https://www.footgear.co.za/wp-content/uploads/2022/10/gallery-ADML1425200-5.jpg?text=Black+Sneakers",
+    "tags": ["shoes","sneakers","black"],
+    "stockQty": 15
+  },
+  {
+    "id": "5",
+    "title": "White Cap",
+    "price": 19.99,
+    "image": "https://i.pinimg.com/originals/d2/91/ab/d291abccf449645cabbc1426706c0584.png?text=White+Cap",
+    "tags": ["accessory","cap","white"],
+    "stockQty": 20
+  },
+  {
+    "id": "6",
+    "title": "Yellow Scarf",
+    "price": 14.99,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.Cns1hVvVn5uBu44SR0X15gHaHa?pid=Api&P=0&h=220?text=Yellow+Scarf",
+    "tags": ["accessory","scarf","yellow"],
+    "stockQty": 12
+  },
+  {
+    "id": "7",
+    "title": "Brown Belt",
+    "price": 24.99,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.GqwKRxgLVmjC7ew04DwR8wHaHb?pid=Api&P=0&h=220?text=Brown+Belt",
+    "tags": ["accessory","belt","brown"],
+    "stockQty": 9
+  },
+  {
+    "id": "8",
+    "title": "Gray Socks",
+    "price": 9.99,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.SEJwbQXHMZsQsY5qqDrWCgHaGr?pid=Api&P=0&h=220?text=Gray+Socks",
+    "tags": ["clothing","socks","gray"],
+    "stockQty": 30
+  },
+  {
+    "id": "9",
+    "title": "Orange T-shirt",
+    "price": 22.99,
+    "image": "https://www.wexman.se/static/webimages/original/orange_tshirt_quick_dry_tee.jpg?text=Orange+T-shirt",
+    "tags": ["clothing","shirt","orange"],
+    "stockQty": 7
+  },
+  {
+    "id": "10",
+    "title": "Pink Dress",
+    "price": 69.99,
+    "image": "https://i.pinimg.com/originals/ec/05/6c/ec056c7c69d444730c82b06531c44016.jpg?text=Pink+Dress",
+    "tags": ["clothing","dress","pink"],
+    "stockQty": 4
+  },
+  {
+    "id": "11",
+    "title": "Purple Jacket",
+    "price": 79.99,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.SIrNyXqzwiFXhZhOJCexRAHaHU?pid=Api&P=0&h=220?text=Purple+Jacket",
+    "tags": ["clothing","jacket","purple"],
+    "stockQty": 6
+  },
+  {
+    "id": "12",
+    "title": "Cyan Shorts",
+    "price": 34.99,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.lrEgbAzD-KC4oqqBx_nfIAHaKV?pid=Api&P=0&h=220?text=Cyan+Shorts",
+    "tags": ["clothing","shorts","cyan"],
+    "stockQty": 10
+  },
+  {
+    "id": "13",
+    "title": "Black Hat",
+    "price": 18.99,
+    "image": "https://i5.walmartimages.com/asr/1310ce55-7f56-4d9b-bf92-1f59624dfb5a_1.4a27cef255160d1a65f758bbab06ee3d.jpeg?text=Black+Hat",
+    "tags": ["accessory","hat","black"],
+    "stockQty": 14
+  },
+  {
+    "id": "14",
+    "title": "White Sneakers",
+    "price": 59.99,
+    "image": "https://cdn.thewirecutter.com/wp-content/media/2021/02/whitesneakers-2048px-4197.jpg?text=White+Sneakers",
+    "tags": ["shoes","sneakers","white"],
+    "stockQty": 11
+  },
+  {
+    "id": "15",
+    "title": "Navy Blazer",
+    "price": 89.99,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.ICB7Z-BPmTZsUVfwQYE9NQHaJo?pid=Api&P=0&h=220?text=Navy+Blazer",
+    "tags": ["clothing","blazer","navy"],
+    "stockQty": 5
+  },
+  {
+    "id": "16",
+    "title": "Brown Boots",
+    "price": 99.99,
+    "image": "https://i8.amplience.net/i/jpl/jd_002282_a?qlt=92?text=Brown+Boots",
+    "tags": ["shoes","boots","brown"],
+    "stockQty": 8
+  },
+  {
+    "id": "17",
+    "title": "Beige Cardigan",
+    "price": 49.99,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.OvLpZNBxpjqQeDR1eiqdfQHaLG?pid=Api&P=0&h=220?text=Beige+Cardigan",
+    "tags": ["clothing","cardigan","beige"],
+    "stockQty": 6
+  },
+  {
+    "id": "18",
+    "title": "Green Cap",
+    "price": 14.99,
+    "image": "https://tse4.mm.bing.net/th/id/OIP.eVHoaWooNteMqv0Zp-637gHaHa?pid=Api&P=0&h=220?text=Green+Cap",
+    "tags": ["accessory","cap","green"],
+    "stockQty": 18
+  },
+  {
+    "id": "19",
+    "title": "Red Sneakers",
+    "price": 59.99,
+    "image": "https://cdn-images.farfetch-contents.com/20/14/23/48/20142348_45299750_1000.jpg?text=Red+Sneakers",
+    "tags": ["shoes","sneakers","red"],
+    "stockQty": 10
+  },
+  {
+    "id": "20",
+    "title": "Black Hoodie",
+    "price": 39.99,
+    "image": "https://img.freepik.com/premium-photo/black-hoodie_639785-25583.jpg?text=Black+Hoodie",
+    "tags": ["clothing","hoodie","black"],
+    "stockQty": 9
+  }
+]
